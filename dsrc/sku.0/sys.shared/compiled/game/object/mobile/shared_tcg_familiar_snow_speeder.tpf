@@ -1,0 +1,23 @@
+// NPC Editor - Erusman
+@base object/mobile/skeleton/shared_vr_bat.iff
+
+@class creature_object_template 12
+
+//gender = GE_male
+//species = SP_human
+
+@class tangible_object_template 3
+
+
+@class object_template 3
+
+
+objectName = "monster_name"  "tcg_familiar_snow_speeder"
+detailedDescription = "" ""
+lookAtText = ""  ""
+
+
+appearanceFilename = "appearance/snow_speeder_familiar.sat"
+//clientDataFile = "clientdata/npc/"
+
+

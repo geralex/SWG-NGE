@@ -1,0 +1,14 @@
+@base object/ship/base/shared_ship_fighter_base.iff
+
+@class ship_object_template 4
+
+@class tangible_object_template 9
+
+@class object_template 9
+objectName = "space_ship" "player_snow_speeder_s01"
+detailedDescription = "space_ship"  "player_snow_speeder_s01"
+lookAtText = ""  ""
+appearanceFilename = "appearance/snowspeeder_ship.apt"
+
+
+clientDataFile = "clientData/ship/client_shared_snowspeeder_s01.cdf"

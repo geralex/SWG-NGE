@@ -1,0 +1,15 @@
+build/*
+chat/*
+configs/*
+data/*
+exe/*
+tools/*
+utils/*
+build_cfgs.sh
+build_linux.sh
+build_src.sh
+cleanup_chat_logs.sh
+cleanup_server_logs.sh
+dologarchive.sh
+startServer.sh
+startWithLogging.sh

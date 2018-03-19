@@ -1,0 +1,58 @@
+shipType	name	skill	fltMass	fltHitPoints
+s	s	s	f	f
+tie_light_duty	Imperial TIE Light Duty Fighter	pilot_imperial_navy_novice	12000	5000
+tiefighter	Imperial TIE Fighter	pilot_imperial_navy_starships_01	20000	5000
+tiefighter	Imperial TIE Fighter [Heavy]	pilot_imperial_navy_starships_01	95000	5000
+tie_in	Imperial TIE/In	pilot_imperial_navy_starships_02	80000	5000
+tiebomber	Imperial TIE Bomber	pilot_imperial_navy_starships_03	190000	5000
+tieinterceptor	Imperial TIE Interceptor	pilot_imperial_navy_starships_03	50000	5000
+tieinterceptor_imperial_guard	Imperial TIE Interceptor [Imperial Guard]	pilot_imperial_navy_starships_03	80000	5000
+tieadvanced	Imperial TIE Advanced	pilot_imperial_navy_starships_04	65000	5000
+tieaggressor	Imperial TIE Aggressor	pilot_imperial_navy_starships_04	120000	5000
+jedi_starfighter	Imperial Eta-2 Actis Interceptor (JSF)	pilot_imperial_navy_starships_04	90000	5000
+tiedefender	Imperial TIE Defender	pilot_imperial_navy_master	180000	5000
+tieoppressor	Imperial TIE Oppressor	pilot_imperial_navy_master	170000	5000
+decimator	Imperial VT-49 Decimator	pilot_imperial_navy_master	5000000	5000
+gunship_imperial	Imperial YE-4 Gunship	pilot_imperial_navy_master	3000000	5000
+hutt_light_s01	Neutral Hutt Scyk Light Fighter 1	pilot_neutral_novice	12000	5000
+hutt_light_s02	Neutral Hutt Scyk Light Fighter 2	pilot_neutral_novice	12000	5000
+hutt_light_s01	Neutral Hutt Scyk Light Fighter 1 [Heavy]	pilot_neutral_novice	95000	5000
+hutt_light_s02	Neutral Hutt Scyk Light Fighter 2 [Heavy]	pilot_neutral_novice	95000	5000
+naboo_n1	Naboo N-1 Starfighter	pilot_neutral_novice	65000	5000
+hutt_medium_s01	Neutral Hutt Dunelizard 1	pilot_neutral_starships_01	160000	5000
+hutt_medium_s02	Neutral Hutt Dunelizard 2	pilot_neutral_starships_01	160000	5000
+blacksun_light_s01	Neutral Blacksun Kihraxz 1	pilot_neutral_starships_02	40000	5000
+blacksun_light_s02	Neutral Blacksun Kihraxz 2	pilot_neutral_starships_02	40000	5000
+blacksun_light_s03	Neutral Blacksun Kihraxz 3	pilot_neutral_starships_02	40000	5000
+blacksun_light_s04	Neutral Blacksun Kihraxz 4	pilot_neutral_starships_02	40000	5000
+hutt_heavy_s01	Neutral Hutt Kimogila 1	pilot_neutral_starships_02	210000	5000
+hutt_heavy_s02	Neutral Hutt Kimogila 2	pilot_neutral_starships_02	210000	5000
+blacksun_medium_s01	Neutral Blacksun Ixiyen 1	pilot_neutral_starships_03	178000	5000
+blacksun_medium_s02	Neutral Blacksun Ixiyen 2	pilot_neutral_starships_03	178000	5000
+blacksun_medium_s03	Neutral Blacksun Ixiyen 3	pilot_neutral_starships_03	178000	5000
+blacksun_medium_s04	Neutral Blacksun Ixiyen 4	pilot_neutral_starships_03	178000	5000
+blacksun_heavy_s01	Neutral Blacksun Rihkxyrk 1	pilot_neutral_starships_04	190000	5000
+blacksun_heavy_s02	Neutral Blacksun Rihkxyrk 2	pilot_neutral_starships_04	190000	5000
+blacksun_heavy_s03	Neutral Blacksun Rihkxyrk 3	pilot_neutral_starships_04	190000	5000
+blacksun_heavy_s04	Neutral Blacksun Rihkxyrk 4	pilot_neutral_starships_04	190000	5000
+blacksun_vaksai	Neutral Blacksun Vaksai Starfighter	pilot_neutral_starships_04	150000	5000
+havoc	Neutral Havoc Starfighter	pilot_neutral_starships_04	184000	5000
+gunship_neutral	Neutral AEG-77 Vigo Gunship	pilot_neutral_master	3000000	5000
+hutt_turret_ship	"Neutral Hutt M22-T ""Krayt"" Heavy Fighter"	pilot_neutral_master	210000	5000
+yt1300	Neutral YT-1300	pilot_neutral_master	5000000	5000
+z95	Rebel Z95 Headhunter	pilot_rebel_navy_novice	12000	5000
+z95	Rebel Z95 Headhunter [Heavy]	pilot_rebel_navy_novice	95000	5000
+ywing	Rebel Y-Wing	pilot_rebel_navy_starships_01	150000	5000
+ywing_longprobe	Rebel Y-Wing Longprobe	pilot_rebel_navy_starships_02	170000	5000
+xwing	Rebel X-Wing	pilot_rebel_navy_starships_03	100000	5000
+advanced_xwing	Rebel X-Wing [Advanced]	pilot_rebel_navy_starships_04	180000	5000
+arc170	Rebel ARC-170	pilot_rebel_navy_starships_04	125000	5000
+awing	Rebel A-Wing	pilot_rebel_navy_starships_04	65000	5000
+twing	Rebel T-Wing	pilot_rebel_navy_starships_04	80000	5000
+bwing	Rebel B-Wing	pilot_rebel_navy_master	240000	5000
+gunship_rebel	Rebel X-4 Gunship	pilot_rebel_navy_master	3000000	5000
+ykl37r	Rebel YKL-37R Nova Courier	pilot_rebel_navy_master	5000000	5000
+firespray	All Factions (Master Tier) KSE Firespray		210000	5000
+yt2400	All Factions (Master Tier) YT-2400		5000000	5000
+y8_mining_ship	All Factions (Master Tier) Y-8 Mining Ship	pilot_rebel_navy_master: pilot_imperial_navy_master: pilot_neutral_master	5000000	5000
+grievous_starfighter	test - grievous	"pilot_rebel_navy_starships_04,pilot_imperial_navy_starships_04,pilot_neutral_starships_04"	175000	5000
